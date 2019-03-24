@@ -1,8 +1,9 @@
+### Dog App
 # Pick the best dog to go with your outfit
 
-###### Dog breed classifier computer vision project using CNN transfer learning for Udacity Deep Learning Nanodegree
+#### Dog breed classifier computer vision project using CNN transfer learning for Udacity Deep Learning Nanodegree
 
-Disclaimer: Here’s a picture of my dog, Oscar. Obviously, like any dog, he is a canine person and not an accessory.  
+###### Disclaimer: Here’s a picture of my dog, Oscar. Obviously, like any dog, he is a canine person and not an accessory.  
 
 ![My dog, Oscar is a Pug/Boston terrier](/Osc.jpg "Title")
 
