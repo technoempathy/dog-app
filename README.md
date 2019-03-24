@@ -36,7 +36,7 @@ def human_app(img_path):
  ```
 
 ## Authors
-@technoempathy – Layla Messner 
+- @technoempathy – Layla Messner 
 
 ## Acknowledgments
 -	@udacity for the project, starting code, and instructions for downloading the datasets
