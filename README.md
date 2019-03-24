@@ -21,7 +21,7 @@ Adapted from the [Udacity Readme for this project](https://github.com/udacity/de
 4.	Your own images. I recommend at least 2 test images in each of the following categories: dogs, humans, cats, other. Each image should be center-cropped and no image should contain both a dog and a human.
 
 ## Known Issues
-* The human-detector (code provided by Udacity) is not very accurate and theefore interferes with the accuracy of the app as it was intended. Thus I find it better to just run the following code, using the image of a human. The algorithm will then return the breed that best matches the human’s outfit. :smile:
+* The human-detector (code provided by Udacity) is not very accurate and therefore interferes with the accuracy of the app as it was intended. Thus, I find it better to just run the following code, using the image of a human. The algorithm will then return the breed that best matches the human’s outfit. :smile:
 
 ## Authors
 -	@technoempathy – Layla Messner 
