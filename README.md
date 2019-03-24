@@ -11,7 +11,7 @@
 ### Step 1: Review my code and results in [dog_app.ipynb](https://github.com/technoempathy/dog-app/blob/master/dog_app.ipynb "Title").
 
 ### Step 2: Do this project yourself
-To make your own Dog App review the project requirements, go [here](https://github.com/udacity/deep-learning-v2-pytorch "Title") and follow the instructions in the ReadMe.
+To make your own Dog App review the project requirements, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification "Title") and follow the instructions in the ReadMe.
 
 ## Prerequisites
 Adapted from the [Udacity Readme for this project](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification "Title").
