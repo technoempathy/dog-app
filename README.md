@@ -18,7 +18,7 @@ To make your own Dog App review the project requirements, go [here](https://gith
 2. GPU
 3. The [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip "title"). (“Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages. The dogImages/ folder should contain 133 folders, each corresponding to a different dog breed.” – @udacity)
 4.	The [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz "Title"). (“Unzip the folder and place it in the repo, at location path/to/dog-project/lfw.” -@udacity) 
-5.	Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
+5.	PyTorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
 6.	Your own images. I recommend at least 2 test images in each of the following categories: dogs, humans, cats, other. Each image should be center-cropped and no image should contain both a dog and a human.
 
 ## Known Issues
